@@ -1,0 +1,169 @@
+club,Fulham,Fulham
+club,Brighton & Hove Albion,Brighton
+club,Newcastle United,Newcastle upon Tyne
+club,Southampton,Southampton
+club,Leeds United,Leeds
+club,Leicester City,Leicester
+club,Tottenham Hotspur,Tottenham
+club,Manchester City,Clayton
+club,Chelsea,Fulham
+club,Burnley,Burnley
+club,West Bromwich Albion,West Bromwich
+club,West Ham United,Stratford
+club,Liverpool,Anfield
+club,Arsenal,Holloway
+club,Manchester United,Old Trafford
+club,Crystal Palace,Selhurst
+club,Aston Villa,Birmingham
+club,Wolverhampton Wanderers,Wolverhampton
+club,Sheffield United,Sheffield
+club,Everton,Walton
+club,Galati &,galati
+match,2021-01-20,Arsenal,Manchester City,3,7
+match,2020-10-18,Newcastle United,Brighton & Hove Albion,8,4
+match,2021-04-09,Sheffield United,West Ham United,2,6
+match,2021-03-03,West Bromwich Albion,Leicester City,0,3
+match,2021-05-20,Manchester City,Wolverhampton Wanderers,4,2
+match,2021-02-20,Wolverhampton Wanderers,Liverpool,1,8
+match,2021-01-26,Leeds United,Wolverhampton Wanderers,6,0
+match,2021-02-17,Wolverhampton Wanderers,Manchester United,0,4
+match,2021-03-07,Crystal Palace,Fulham,1,5
+match,2021-03-20,Southampton,Aston Villa,7,2
+match,2020-10-31,Sheffield United,Burnley,5,6
+match,2020-11-25,Liverpool,Fulham,1,5
+match,2020-11-22,Burnley,Tottenham Hotspur,4,8
+match,2020-09-28,Wolverhampton Wanderers,Leicester City,6,6
+match,2021-04-10,Manchester City,Crystal Palace,4,0
+match,2020-11-07,Leicester City,Brighton & Hove Albion,3,6
+match,2021-03-26,Chelsea,Fulham,7,1
+match,2021-05-13,Everton,Fulham,5,2
+match,2021-04-14,Manchester City,Newcastle United,6,7
+match,2021-01-10,Arsenal,Wolverhampton Wanderers,1,8
+match,2020-10-05,Tottenham Hotspur,Leicester City,1,4
+match,2021-02-21,Tottenham Hotspur,Southampton,1,8
+match,2020-10-07,Everton,Southampton,3,7
+match,2021-04-24,Southampton,Manchester United,0,4
+match,2020-11-09,Brighton & Hove Albion,Liverpool,8,5
+match,2021-01-03,Liverpool,West Bromwich Albion,4,5
+match,2020-11-17,West Bromwich Albion,Liverpool,0,6
+match,2021-05-18,West Bromwich Albion,Tottenham Hotspur,0,7
+match,2021-02-11,West Ham United,Everton,4,3
+match,2021-03-14,Fulham,Chelsea,0,4
+match,2021-04-10,Aston Villa,Everton,8,6
+match,2021-03-19,Fulham,Burnley,0,5
+match,2020-10-12,Wolverhampton Wanderers,Burnley,3,7
+match,2021-03-15,Newcastle United,Brighton & Hove Albion,5,8
+match,2020-12-13,Newcastle United,Aston Villa,8,4
+match,2020-10-07,Leicester City,Liverpool,3,0
+match,2020-09-25,Newcastle United,Aston Villa,5,3
+match,2021-02-25,Everton,Newcastle United,5,8
+match,2021-01-21,Fulham,Manchester City,4,0
+match,2021-03-03,Southampton,West Bromwich Albion,0,8
+match,2020-11-03,Leeds United,Arsenal,6,3
+match,2021-04-02,Newcastle United,Manchester City,8,2
+match,2021-03-25,West Ham United,Newcastle United,4,6
+match,2021-02-12,Manchester City,Newcastle United,8,6
+match,2020-12-07,Crystal Palace,Newcastle United,8,7
+match,2021-04-15,Arsenal,Aston Villa,6,5
+match,2020-11-01,Manchester City,Brighton & Hove Albion,3,8
+match,2021-04-08,Southampton,Leeds United,1,5
+match,2021-05-20,Burnley,Leicester City,5,2
+match,2020-10-08,Burnley,Sheffield United,5,7
+match,2021-05-01,Leeds United,Arsenal,5,0
+match,2021-04-21,Brighton & Hove Albion,Aston Villa,8,7
+match,2021-02-04,Leeds United,Manchester City,2,4
+match,2021-01-31,Crystal Palace,West Bromwich Albion,7,3
+match,2020-12-21,Arsenal,Leicester City,6,3
+match,2021-01-18,Arsenal,Sheffield United,5,5
+match,2021-05-07,Tottenham Hotspur,Arsenal,8,2
+match,2021-05-21,West Bromwich Albion,Chelsea,4,8
+match,2021-05-16,Chelsea,Brighton & Hove Albion,8,7
+match,2021-03-09,Tottenham Hotspur,West Ham United,1,4
+match,2021-02-01,Brighton & Hove Albion,Crystal Palace,8,0
+match,2021-05-09,Burnley,Tottenham Hotspur,0,6
+match,2021-04-11,Leicester City,Brighton & Hove Albion,0,1
+match,2021-03-25,Liverpool,Chelsea,1,6
+match,2021-04-15,Fulham,Burnley,8,0
+match,2020-11-05,Southampton,Liverpool,4,3
+match,2020-12-30,Manchester City,Fulham,6,8
+match,2021-01-03,Everton,Wolverhampton Wanderers,8,6
+match,2020-12-02,Manchester City,Tottenham Hotspur,0,1
+match,2020-11-13,West Bromwich Albion,Chelsea,5,7
+match,2020-10-05,Fulham,Leicester City,6,3
+match,2021-04-26,West Bromwich Albion,Burnley,6,8
+match,2020-12-05,West Ham United,Fulham,1,7
+match,2021-01-30,West Bromwich Albion,Manchester City,6,8
+match,2021-02-19,West Ham United,Aston Villa,5,8
+match,2020-10-14,Brighton & Hove Albion,Chelsea,3,5
+match,2021-03-16,Leeds United,West Bromwich Albion,4,1
+match,2021-01-25,Leeds United,West Bromwich Albion,0,5
+match,2020-11-29,Southampton,Arsenal,6,5
+match,2021-03-25,Newcastle United,Manchester City,6,1
+match,2020-09-20,Newcastle United,Fulham,5,5
+match,2020-12-22,Arsenal,Manchester City,6,0
+match,2020-12-29,West Bromwich Albion,Crystal Palace,6,6
+match,2020-10-12,Everton,Leicester City,2,6
+match,2020-10-18,Aston Villa,Brighton & Hove Albion,5,7
+match,2020-09-24,Chelsea,Leeds United,4,8
+match,2020-09-20,Fulham,Tottenham Hotspur,4,5
+match,2020-12-16,Fulham,Wolverhampton Wanderers,7,2
+match,2020-12-11,West Ham United,Southampton,7,7
+match,2020-09-23,Southampton,Tottenham Hotspur,8,8
+match,2021-01-22,Leeds United,West Bromwich Albion,4,1
+match,2020-09-30,Leeds United,Liverpool,5,5
+match,2021-04-02,Everton,Manchester United,0,5
+match,2021-05-07,Brighton & Hove Albion,West Bromwich Albion,3,3
+match,2021-05-03,Wolverhampton Wanderers,Crystal Palace,6,5
+match,2020-10-06,Liverpool,Leicester City,8,6
+match,2021-01-20,Manchester United,Liverpool,2,7
+match,2021-05-16,Fulham,Leeds United,5,2
+match,2021-02-16,Newcastle United,Manchester City,5,6
+match,2021-02-25,Arsenal,Chelsea,6,3
+match,2020-12-11,Newcastle United,Tottenham Hotspur,3,0
+match,2021-01-19,West Ham United,Manchester United,2,7
+match,2021-04-25,Aston Villa,Brighton & Hove Albion,5,6
+match,2021-04-02,West Bromwich Albion,Fulham,1,7
+match,2021-02-14,Fulham,West Bromwich Albion,3,5
+match,2020-12-12,West Bromwich Albion,Fulham,3,4
+match,2021-04-03,Brighton & Hove Albion,Chelsea,7,1
+match,2021-03-06,Leicester City,Newcastle United,7,5
+match,2020-09-29,Fulham,Newcastle United,7,0
+match,2021-02-07,Wolverhampton Wanderers,Burnley,6,7
+match,2020-11-23,Leicester City,Sheffield United,6,4
+match,2020-10-08,Leeds United,Crystal Palace,4,4
+match,2020-10-22,West Ham United,Fulham,2,5
+match,2021-02-19,Crystal Palace,Sheffield United,1,4
+match,2020-11-14,Southampton,Everton,7,2
+match,2020-10-26,Leicester City,Chelsea,8,0
+match,2021-03-24,Burnley,West Bromwich Albion,0,0
+match,2021-02-26,Tottenham Hotspur,Chelsea,7,4
+match,2021-04-08,Arsenal,Crystal Palace,3,7
+match,2020-12-03,Southampton,Sheffield United,6,2
+match,2021-04-13,Burnley,West Ham United,3,3
+match,2021-05-20,Aston Villa,Liverpool,2,1
+match,2021-03-05,Brighton & Hove Albion,Southampton,4,3
+match,2021-03-31,West Ham United,Fulham,6,3
+match,2020-10-24,Manchester United,Newcastle United,3,8
+match,2021-01-25,Wolverhampton Wanderers,Leeds United,0,3
+match,2021-01-30,Liverpool,Sheffield United,7,5
+match,2021-01-21,Crystal Palace,Liverpool,3,8
+match,2021-01-09,Wolverhampton Wanderers,Aston Villa,3,0
+match,2021-01-25,Liverpool,Wolverhampton Wanderers,6,2
+match,2021-03-11,Everton,Tottenham Hotspur,2,8
+match,2020-12-14,West Bromwich Albion,Leeds United,6,4
+match,2020-11-12,Southampton,Newcastle United,7,2
+match,2020-09-21,Brighton & Hove Albion,Galati &,8,8
+match,2020-09-16,Fulham,Chelsea,2,5
+match,2021-04-19,Fulham,West Bromwich Albion,8,6
+match,2021-05-04,Southampton,Newcastle United,4,8
+match,2020-11-12,Galati &,Burnley,4,7
+match,2021-05-07,Arsenal,Leicester City,8,7
+match,2020-09-16,Burnley,Arsenal,7,6
+match,2021-02-28,Southampton,Chelsea,2,6
+match,2020-11-01,Burnley,Arsenal,8,5
+match,2020-11-22,Liverpool,Brighton & Hove Albion,2,5
+match,2021-04-22,Burnley,Everton,2,2
+match,2021-02-17,Leicester City,Newcastle United,1,8
+match,2020-12-18,Manchester City,Aston Villa,4,6
+match,2020-10-23,West Ham United,Fulham,8,1
+match,2021-03-01,West Bromwich Albion,Manchester United,4,0
